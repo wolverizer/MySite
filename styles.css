@@ -1,3 +1,35 @@
-html {
-    background-color: blue ;
+
+
+h1 {
+    margin-top: 0px;
+    
+}
+
+body {
+    margin: 0px;
+}
+
+.top {
+    background-color: #8ac4d0;
+    width: 100%;
+    padding: 20px;
+    
+
+}
+
+.middle {
+    background-color: red ;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.bottom {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+.pro    {
+    text-decoration: underline;
 }
